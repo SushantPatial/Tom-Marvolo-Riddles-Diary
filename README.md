@@ -6,10 +6,10 @@ Languages used:-
 Front End: HTML, CSS, JQuery
 Back End: PHP, MySQL
 
-## Try it out!
+### Try it out!
 https://tomriddlesdiary-com.stackstaging.com/
 
-## Screenshots
+### Screenshots
 
 ![image](https://user-images.githubusercontent.com/84243683/127742790-878346fc-1c44-4844-a47c-02a561043255.png)
 
