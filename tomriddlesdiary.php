@@ -22,7 +22,7 @@
   }
   else
   {
-    header ("Location:index.html");
+    header ("Location:index.php");
   }
 
   include("header.php");
@@ -40,7 +40,7 @@
     <div class="mr-auto"></div>
 
     <div class="form-inline my-2 my-lg-0">
-      <a href='index.html?logout=1'><button class="btn btn-outline-success my-2 my-sm-0" type="submit">Logout</button></a>
+      <a href='index.php?logout=1'><button class="btn btn-outline-success my-2 my-sm-0" type="submit">Logout</button></a>
     </div>
 
     </div>
