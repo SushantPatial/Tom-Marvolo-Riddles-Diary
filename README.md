@@ -2,8 +2,7 @@
 
 A website which allows you to log in and write any type of information securely within a database. This website is Harry Potter themed and it resembles T. M. Riddle's Diary which was a simple blank diary, which Tom Riddle transformed into a Horcrux.
 
-Languages used:-
-<br>
+#### Languages used:-
 Front End: HTML, CSS, JQuery
 <br>
 Back End: PHP, MySQL
