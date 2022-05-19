@@ -1,4 +1,4 @@
-# Tom Marvolo Riddle's Diary
+# Tom Riddle's Diary
 
 <b>A website which allows you to log in and write any type of information securely within a database. This website is Harry Potter themed and it resembles T. M. Riddle's Diary which was a simple blank diary, which Tom Riddle transformed into a Horcrux.</b>
 
