@@ -8,7 +8,7 @@ Front End: HTML, CSS, Bootstrap, jQuery
 Back End: PHP, MySQL
 
 ### Try it out!
-https://tomriddlesdiary-com.stackstaging.com/
+http://tomriddlesdiary.epizy.com/
 
 ### Screenshots
 
